@@ -3,6 +3,7 @@ src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06-k5.4
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
 src-git passwall https://github.com/immortalwrt/openwrt-passwall
+src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git kms https://github.com/cokebar/openwrt-vlmcsd
 #src-git vlmcsd https://github.com/cokebar/luci-app-vlmcsd
 #src-git ramfree https://github.com/awesome-openwrt/luci-app-ramfree
